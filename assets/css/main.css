@@ -60,6 +60,7 @@ body {
 	text-align:left;
 	font-size: 1.1em;
 	margin-left:10%;
+	margin-right:auto;
 }
 mark {
 	background-color: transparent;
