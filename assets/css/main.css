@@ -55,6 +55,11 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+.aboutclass{
+	width:80%;
+	text-align:left;
+	font-size: 1.1em;
+}
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -2411,7 +2416,7 @@ table.tabout {
 	margin: 0 0 2em 0;
 	width: 100%;
 	background-color: #ffffff;
-	vertical-align: top;
+	vertical-align: top,;
 }
 
 	table.tabout tbody tr {
