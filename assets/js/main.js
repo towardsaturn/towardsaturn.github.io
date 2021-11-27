@@ -92,8 +92,7 @@
 	// Menu.
 
 
-
-
+	  
 		var $menu = $('#menu');
 
 		$menu.wrapInner('<div class="inner"></div>');
