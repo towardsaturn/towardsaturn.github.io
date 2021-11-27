@@ -90,6 +90,12 @@
 			});
 
 	// Menu.
+
+	$('#nav-icon4').click(function(){
+		$('.menu').toggleClass('open');
+	  });
+
+	  
 		var $menu = $('#menu');
 
 		$menu.wrapInner('<div class="inner"></div>');
