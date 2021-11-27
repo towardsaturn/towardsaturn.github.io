@@ -2896,8 +2896,6 @@ table.tabout {
 
 /* Header */
 
-@media only screen and (max-width: 736px) {    
-	
 	#header {
 		padding: 8em 0 0.1em 0 ;
 	}
@@ -3034,8 +3032,7 @@ table.tabout {
 		}
 
 /* Menu */
-@media only screen and (max-width: 736px)
-{
+
 	#wrapper {
 		-moz-transition: opacity 0.45s ease;
 		-webkit-transition: opacity 0.45s ease;
@@ -3043,7 +3040,7 @@ table.tabout {
 		transition: opacity 0.45s ease;
 		opacity: 1;
 	}
-	
+
 	#menu {
 		-moz-transform: translateX(22em);
 		-webkit-transform: translateX(22em);
