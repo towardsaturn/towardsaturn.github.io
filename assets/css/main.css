@@ -188,6 +188,9 @@ input, select, textarea {
 		font-weight:bold;
 	}
 
+	.centered {
+		text-align:right;
+	}
 		a:hover {
 			border-bottom-color: transparent;
 			color: #7bd0c1 !important;
@@ -2659,7 +2662,7 @@ table.tabout {
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			position: relative;
 			width: calc(47% - 2.5em);
-			margin: 2.5em 0 0 2.5em;
+			margin: 4em 0 0 4em;
 		}
 
 			.tiles article > .image {
