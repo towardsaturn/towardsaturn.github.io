@@ -178,7 +178,15 @@ input, select, textarea {
 		display: inline-block;
 	 }
 
-	
+	.underline {
+	color: #7bd0c1;
+	font-weight:bold;
+	}
+
+	.underline2 {
+		color:#e78b9f;
+		font-weight:bold;
+	}
 
 		a:hover {
 			border-bottom-color: transparent;
