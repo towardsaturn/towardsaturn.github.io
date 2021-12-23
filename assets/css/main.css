@@ -232,6 +232,7 @@ div.blockhead p {
 	font-size: 23px;
 text-align:left;
 min-height: 1em;
+width:100%;
 text-decoration: none;
 display: flex;
 align-items: center;
