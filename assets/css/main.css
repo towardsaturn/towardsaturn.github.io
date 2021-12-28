@@ -289,11 +289,9 @@ margin: 0 }
 	font-weight:bold;
 	}
 	
-	.tileheader{
-	
+	.tileheader {
 	font-size: 1.6em;
-		letter-spacing: 0.35em;
-		font-weight:600;
+	font-weight:bold;
 	
 }
 	.underline2 {
