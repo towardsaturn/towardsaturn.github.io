@@ -284,6 +284,7 @@ margin: 0 }
 	
 	.tileheader {
 	font-size: 1.6em;
+	letter-spacing: 0.2em;
 	font-weight:bold;
 	
 }
@@ -354,7 +355,7 @@ margin: 0 }
 		letter-spacing: 0.35em;
 	}
 
-		h2 a, h3 a, h4 a, h5 a, h6 a {
+		t2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 		}
 
