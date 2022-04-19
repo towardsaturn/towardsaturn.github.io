@@ -6,6 +6,8 @@
  * Released under the MIT license
  *
  * Date: 2020-09-29T14:46:10.983Z
+ * 
+ * Japanese Version edited by Crystal Ma
  */
 
 (function (global, factory) {
